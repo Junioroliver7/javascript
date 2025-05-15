@@ -1,0 +1,10 @@
+@charset "UTF8";
+
+@media screen and (max-width: 425px) {
+    h1 {
+        font-size: 18px;
+    }
+  section {
+    width: 90%;
+  }
+}
